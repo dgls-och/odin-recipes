@@ -28,7 +28,7 @@ Absolute and relative links are used in the project.
 
 The learner uses absolute links to refer readings to original recipe site. The "rel='noreferrer' attribute is used on most pages for security and privacy. This would force the browser from sending referrer's info to the referred site. Meaning nothing should go from my site to the recipe owner's site. And a script from the recipes original sites should not be able to read my site.  
 
-The learner also uses relative links to point site users to recipe pages from the homepage and vice versa. Links to the homepage are embedded to an unordered list item placed on top of the page. This should allow users to easily return to home should they wish to immediatly the browser renders the page.
+The learner also uses relative links to point site users to recipe pages from the homepage and vice versa. Links to the homepage are embedded to an unordered list item placed on top of the page. This should allow users to easily return to home should they wish to immediatly the browser renders the page. The links to homepage are a step backward. Meaning, user returns to root directory from the _recipes_ directory.
 
 ## Images
 
