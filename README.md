@@ -24,7 +24,11 @@ The takeawy, first, is to be patient. Second to it is to create one page for a s
 The learner tried to apply knowledge of HTML heading tags. One h1 tag is used on pages where the need is. The learner made efforts to use h2 and h3 tags. Using h2 tags was necessitated by the instructions. But the h3 tag was used where the learner is convinced should have rather been added to the README.md documentation. Yes, the one you're reading through.
 
 ## Links
+Absolute and relative links are used in the project.  
 
+The learner uses absolute links to refer readings to original recipe site. The "rel='noreferrer' attribute is used on most pages for security and privacy. This would force the browser from sending referrer's info to the referred site. Meaning nothing should go from my site to the recipe owner's site. And a script from the recipes original sites should not be able to read my site.  
+
+The learner also uses relative links to point site users to recipe pages from the homepage and vice versa. Links to the homepage are embedded to an unordered list item placed on top of the page. This should allow users to easily return to home should they wish to immediatly the browser renders the page.
 
 ## Images
 
