@@ -31,6 +31,9 @@ The learner uses absolute links to refer readings to original recipe site. The "
 The learner also uses relative links to point site users to recipe pages from the homepage and vice versa. Links to the homepage are embedded to an unordered list item placed on top of the page. This should allow users to easily return to home should they wish to immediatly the browser renders the page. The links to homepage are a step backward. Meaning, user returns to root directory from the _recipes_ directory.
 
 ## Images
+The learner uses the `img` tag to embed images to the pages. Image sources are absolute links to the original recipes site. Alt text are lengthy. And that was the learner's attempt to include necessary detail to the alt text so that users may posses an idea of the image should users encounter a network failure preventing image from loading. The image alt texts, in short, were descriptive at best.  
+
+The learner observed that images loaded slowly on his local machine. It may have been an issue with the learner's ISP. But it could have also been a disadvantage of the linking images to other sites on the web. Whatever the case be, this point is made for the records. But no changes will be made to the image links. However, the learner has taken note for the future.
 
 ## Lists
 
