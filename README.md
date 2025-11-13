@@ -36,6 +36,9 @@ The learner uses the `img` tag to embed images to the pages. Image sources are a
 The learner observed that images loaded slowly on his local machine. It may have been an issue with the learner's ISP. But it could have also been a disadvantage of the linking images to other sites on the web. Whatever the case be, this point is made for the records. But no changes will be made to the image links. However, the learner has taken note for the future.
 
 ## Lists
+Both ordered and unordered lists were used in the project to represent data.
 
 ## Git Commit Messages
-The learner has changed his default editor to VS Code, which allows him to write clearer and detailed commit messages. Yet his commit messages are crap. Please avoid going through the commit log. You really don't want to. But the learner is aware that the expectations by peers and instructors are minimal. So, the learner has refused to allow commit messages define the learning journey. The learner is convinced that the messages will improve with time.
+The learner has changed his default editor to VS Code, which allows him to write clearer and detailed commit messages. Yet his commit messages are crap. Please avoid going through the commit log. You really don't want to. But the learner is aware that the expectations by peers and instructors are minimal. So, the learner has refused to allow commit messages define the learning journey. The learner is convinced that the messages will improve with time.  
+
+# _Watchout for style reflections_
