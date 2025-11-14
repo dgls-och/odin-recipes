@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    }
+
+html {
+    background-color: #1a1a2b;
+    color: white;
+}
+
+body {
+    width: 100vw;
+    height: 100vw;
+    margin: 0;   
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 0;
+}
