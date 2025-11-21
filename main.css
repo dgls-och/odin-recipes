@@ -1,20 +1,52 @@
 * {
     box-sizing: border-box;
-    }
+    margin: 0;
+    padding: 0;
+}
 
 html {
-    background-color: #1a1a2b;
-    color: white;
+    background-color: white;
 }
 
 body {
     width: 100vw;
-    height: 100vw;
-    margin: 0;   
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 70%;
+    max-width: 700px;
+    margin: 0 auto;
+    border: 2px solid;
+}
+
+
+/* header element and descendants */
+.header {
+    border: 2px solid red;
+    width: 100%;
+    margin: 1.5rem auto;
+    padding: 1rem;
+    border-radius: 10px;
 }
 
 h1 {
-    color: rgb(255, 255, 255);
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+}
+
+h1 a {
+    color: red;
     text-decoration: none;
-    margin: 0;
+}
+
+.hero-text {
+    background-color: #311;
+    color: yellow;
+    border: 2px solid #ff0;
+    border-radius: 8px;
+    padding: 0.5rem;
 }
