@@ -41,4 +41,4 @@ Both ordered and unordered lists were used in the project to represent data.
 ## Git Commit Messages
 The learner has changed his default editor to VS Code, which allows him to write clearer and detailed commit messages. Yet his commit messages are crap. Please avoid going through the commit log. You really don't want to. But the learner is aware that the expectations by peers and instructors are minimal. So, the learner has refused to allow commit messages define the learning journey. The learner is convinced that the messages will improve with time.  
 
-# _Watchout for style reflections_
+# _Watchout for styles reflections_
